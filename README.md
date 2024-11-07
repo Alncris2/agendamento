@@ -1,4 +1,4 @@
-# 🪮 Agendamento online 👩🏻‍🦰
+# 🪮 Agendamento online 👩🏻‍🦰(Andamento)
 Este é um sistema de agendamento online desenvolvido para facilitar o trabalho de agendamentos, permitindo que clientes agendem serviços de forma prática e intuitiva. O sistema foi desenvolvido em Laravel 11 e utiliza Blade para a interface do usuário, além de Docker para o ambiente de desenvolvimento.
 
 ## White Labels
@@ -15,7 +15,7 @@ Este é um sistema de agendamento online desenvolvido para facilitar o trabalho 
 - **Redis:** Para caching e gerenciamento de sessões.
 - **MySQL:** Banco de dados relacional.
 - **Webhook**: Para envio de lembretes e integração com WhatsApp.
-- **Tenancy**: Para suporte a múltiplos locatários.
+- **Tenancy**: Para suporte a múltiplos locatários. (Andamento)
 
 
 ## Recusos
